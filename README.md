@@ -1,4 +1,5 @@
-![](https://github.com/user/banner.png)
+![](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/117924261/original/102a63614f81d5b999508b96c58ef3bc46a020b0/be-your-full-stack-web-developer.jpg)
+
 <h1 align="center">Hi , I'm Amatika Kelvin Wetindi</h1>
 <h3 align="center">A passionate full stack java developer from Nairobi, Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/isolated-unknown-young-man-hacker-sitting-playing-laptop-with-lots-money_568847-888.jpg?size=626&ext=jpg">
