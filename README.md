@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Amatika Kelvin Wetindi</h1>
 <h3 align="center">A passionate full stack java developer from Nairobi, Kenya</h3>
-
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/isolated-unknown-young-man-hacker-sitting-playing-laptop-with-lots-money_568847-888.jpg?size=626&ext=jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amatika&label=Profile%20views&color=0e75b6&style=flat" alt="amatika" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@amatika_wetindi" target="blank"><img src="https://img.shields.io/twitter/follow/amatika wetindi?logo=twitter&style=for-the-badge" alt="amatika wetindi" /></a> </p>
