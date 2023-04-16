@@ -1,4 +1,4 @@
-![](https://www.toogit.com/uploads/ServicesAttachments/2020/03220828192410.jpg)
+![](https://github.com/user/banner.png)
 <h1 align="center">Hi , I'm Amatika Kelvin Wetindi</h1>
 <h3 align="center">A passionate full stack java developer from Nairobi, Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/isolated-unknown-young-man-hacker-sitting-playing-laptop-with-lots-money_568847-888.jpg?size=626&ext=jpg">
